@@ -1,4 +1,4 @@
-# ❤️ Heart Disease Prediction using Machine Learning
+# ❤️ Heart Stroke Prediction
 
 An end-to-end Machine Learning project that predicts the likelihood of heart disease using patient medical information. The project includes Exploratory Data Analysis (EDA), data preprocessing, comparison of multiple machine learning models, model serialization, and an interactive Streamlit web application for real-time predictions.
 
